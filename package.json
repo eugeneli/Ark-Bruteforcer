@@ -1,0 +1,22 @@
+{
+  "name": "Ark-Bruteforcer",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "ark-api": "git+https://github.com/eugeneli/arkjs-wrapper.git",
+    "arkjs": "^0.2.1",
+    "async": "^2.5.0",
+    "bignumber.js": "^4.1.0",
+    "bip39": "^2.4.0",
+    "command-line-args": "^4.0.7",
+    "js-combinatorics": "^0.5.3",
+    "moment": "^2.18.1",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
