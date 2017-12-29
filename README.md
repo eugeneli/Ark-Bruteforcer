@@ -4,11 +4,12 @@ Bruteforce your missing Ark passphrase and Ledger Nano S seed words.
 
 
 ### Installation and Usage
-1) Clone this repository
-2) ```cd Ark-Bruteforcer```
-3) ```npm install```
-4) ```node bruteforcer.js```
-5) Follow the on-screen instructions
+1) Install git
+2) Clone this repository
+3) ```cd Ark-Bruteforcer```
+4) ```npm install```
+5) ```node bruteforcer.js```
+6) Follow the on-screen instructions
 
 ## Screenshots
 Main screen:
